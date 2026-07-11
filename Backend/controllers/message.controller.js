@@ -7,7 +7,7 @@ import { Message } from "../models/message.model.js";
 
 import mongoose from "mongoose";
 import getDataUri from "../utils/dataUri.js";
-import cloudinary from "../utils/cloudinary.js";
+import cloudinary from "../utils/Cloudinary.js";
 import { User } from "../models/user.model.js";
 
 
